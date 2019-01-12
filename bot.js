@@ -7,7 +7,7 @@ owopbot.world = 'main'
 owopbot.connect()
 
 setInterval(function() {
-owopbot.sendMessage('/adminlogin thisismyswamp') //adminlogin
+owopbot.sendMessage('/adminlogin memesarespicy') //adminlogin
 owopbot.sendMessage('/nick OWOP to Discord') //name of bot
 owopbot.move(999999999,999999999)
 },5000)
